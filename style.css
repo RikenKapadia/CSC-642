@@ -1,66 +1,75 @@
-// Sign Up Page
+.Sign Up Page
+{
 color: white;
  font-size: 40px;
  font-family: Inter;
  font-weight: 400;
  word-wrap: break-word
----
-// Home
+}
+.Home
+{
 color: white;
  font-size: 20px;
  font-family: Inter;
  font-weight: 400;
  word-wrap: break-word
----
-// Search
+}
+.Search
+{
 color: white;
  font-size: 20px;
  font-family: Inter;
  font-weight: 400;
  word-wrap: break-word
----
-// Hangouts
+}
+.Hangouts
+{
 color: white;
  font-size: 20px;
  font-family: Inter;
  font-weight: 400;
  word-wrap: break-word
----
-// Map
+}
+.Map
+{
 color: white;
  font-size: 20px;
  font-family: Inter;
  font-weight: 400;
  word-wrap: break-word
----
-// Login
+}
+.Login
+{
 color: white;
  font-size: 20px;
  font-family: Inter;
  font-weight: 400;
  word-wrap: break-word
----
-// SONG NAME
+}
+.SONGNAME
+{
 color: white;
  font-size: 20px;
  font-family: Inter;
  font-weight: 400;
  word-wrap: break-word
----
-// Artist
+}
+.Artist
+{
 color: white;
  font-size: 15px;
  font-family: Inter;
  font-weight: 400;
  word-wrap: break-word
----
-// - 3 : 0 4
+}
+p
+{
 color: white;
  font-size: 10px;
  font-family: Inter;
  font-weight: 400;
  word-wrap: break-word
----
+}
 // 1 : 2 5
 color: white;
  font-size: 10px;
